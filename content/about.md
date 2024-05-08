@@ -17,6 +17,6 @@ showtoc = false
 
 
 #### Contact me on 
-- Linkedin : [Link](https://linkedin.com/in/swastikgn)
+- Linkedin : [swastikgn](https://linkedin.com/in/swastikgn)
 
  
