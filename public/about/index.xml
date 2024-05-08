@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Abouts on Swastik G N</title>
+    <link>http://localhost:44545/about/</link>
+    <description>Recent content in Abouts on Swastik G N</description>
+    <generator>Hugo -- 0.125.6</generator>
+    <language>en-us</language>
+    <lastBuildDate>Wed, 08 May 2024 14:10:39 +0530</lastBuildDate>
+    <atom:link href="http://localhost:44545/about/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>About</title>
+      <link>http://localhost:44545/about/about/</link>
+      <pubDate>Wed, 08 May 2024 14:10:39 +0530</pubDate>
+      <guid>http://localhost:44545/about/about/</guid>
+      <description>Hello there! My name is Swastik , and I&amp;rsquo;m am currently pursuing a Masters in Computer Applications at PES University.</description>
+    </item>
+  </channel>
+</rss>
