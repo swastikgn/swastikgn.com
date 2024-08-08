@@ -2,14 +2,12 @@ baseURL: https://swastikgn.com/
 languageCode: en-us
 title: Swastik G N
 theme: ["PaperMod"]
- 
 
 enableRobotsTXT: true
 buildDrafts: false
 buildFuture: false
 buildExpired: false
 
- 
 minify:
   disableXML: true
   minifyOutput: true
@@ -18,7 +16,7 @@ params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
   title: Swastik G N
   description: "Swastik's Personal Website"
-  keywords: [Blog, Portfolio,Swastik G N]
+  keywords: [Blog, Portfolio, Swastik G N]
   author: Swastik G N
   # author: ["Me", "You"] # multiple authors
   # images: ["<link or path of image for opengraph, twitter-cards>"]
@@ -56,8 +54,6 @@ params:
     # icon: /apple-touch-icon.png
     iconHeight: 35
 
- 
- 
   # home-info mode
   homeInfoParams:
     Title: "Hi there \U0001F44B"
@@ -66,7 +62,7 @@ params:
   socialIcons:
     - name: linkedin
       url: "https://linkedin.com/in/swastikgn/"
-     
+
     - name: github
       url: "https://github.com/swastikgn"
 
@@ -113,7 +109,7 @@ menu:
       name: Archive
       url: /archives/
       weight: 20
-     
+
 # Read: https://github.com/adityatelange/hugo-PaperMod/wiki/FAQs#using-hugos-syntax-highlighter-chroma
 pygmentsUseClasses: true
 markup:
