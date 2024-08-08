@@ -6,17 +6,13 @@ hideMeta = true
 showtoc = false
 
 +++
- {{< figure src="cowboybebop.gif" alt=" "  align="center">}}
 
+{{< figure src="cowboybebop.gif" alt=" "  align="center">}}
 
+### Hello! I'm Swastik, residing in Bangalore,India 🇮🇳
 
- 
-### Hello! I'm Swastik, residing in  Bangalore,India 🇮🇳
+### I love reading , listening to songs and learning new things.
 
-###  I love reading , listening to songs and learning new things.
+#### Contact me on
 
-
-#### Contact me on 
 - Linkedin : [swastikgn](https://linkedin.com/in/swastikgn)
-
- 
