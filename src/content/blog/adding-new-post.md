@@ -1,7 +1,7 @@
 ---
 author: Swastik G N
 pubDatetime: 2022-09-23
-modDatetime: 2024-12-28T14:09:18Z
+modDatetime: 2024-12-28T14:10:42Z
 title: An Introduction to Redis
 slug: adding-new-posts-in-astropaper-theme
 featured: true
