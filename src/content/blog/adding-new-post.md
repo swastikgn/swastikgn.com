@@ -1,20 +1,18 @@
 ---
 author: Swastik G N
-pubDatetime: 2022-09-23
-modDatetime: 2024-12-28T14:10:42Z
+pubDatetime: 2024-12-28
 title: An Introduction to Redis
-slug: adding-new-posts-in-astropaper-theme
+slug: an-intro-to-redis
 featured: true
-draft: false
+draft: true
 tags:
-  - docs
+  - redis
 
 description:
-  Some rules & recommendations for creating or adding new posts using AstroPaper
-  theme.
+  A short introduction to Redis
 ---
 
- 
 ## Table of contents 
 
-# space
+
+## 
