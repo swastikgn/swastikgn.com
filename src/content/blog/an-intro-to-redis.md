@@ -4,7 +4,7 @@ pubDatetime: 2024-12-28
 title: An Introduction to Redis
 slug: an-intro-to-redis
 featured: true
-draft: false
+draft: true
 tags:
   - redis
 
